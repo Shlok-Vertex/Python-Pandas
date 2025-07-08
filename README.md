@@ -10,7 +10,7 @@ This project demonstrates the basics of using the Pandas library in Python for d
    pip install pandas
    ```
 
-2. **Basic Example using DataFrame**
+2. **Basic Example using DataFrame.**
 
    ```python
    import pandas as pd
@@ -22,7 +22,7 @@ This project demonstrates the basics of using the Pandas library in Python for d
    }
    df = pd.DataFrame(data)
    print(df)
-2. **Basic Example using Series**
+2. **Basic Example using Series.**
 
    ```python
    import pandas as pd
