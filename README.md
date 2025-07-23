@@ -1,4 +1,4 @@
-# Pandas Python Project
+# Pandas Python Project. 
 
 This project demonstrates the basics of using the Pandas library in Python for data analysis.
 
